@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/daggerok/r2dbcpg.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-guides/gs-reactive-rest-service" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\dev" />

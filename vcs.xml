@@ -74,6 +74,10 @@
           <option name="url" value="https://github.com/scnewma/jib-spring-example.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/sigmasoftware/twimer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\dev" />
